@@ -45,7 +45,6 @@ Downloads each file and saves it by its original filename.
 
 ```
 download: URL1 URL2 URL3
-download: https://github.com/maanimis/netprober/releases/download/v1.5.0/netprober-v1.5.0-linux-x64.tar.gz
 ```
 
 **Examples:**
